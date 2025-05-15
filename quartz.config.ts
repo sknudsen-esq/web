@@ -3,22 +3,22 @@ import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * Personalitzat per investigador predoctoral amb suport multilingüe
+ * Veure: https://quartz.jzhao.xyz/configuration
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Steen Knudsen Esquerda",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+    locale: "ca-ES",
+    baseUrl: "nomcognom.github.io", // Canvia-ho pel teu domini personalitzat si en tens
+    ignorePatterns: ["private", "templates", ".obsidian"],
+    defaultDateType: "modified",
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -27,31 +27,38 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+  colors: {
+    lightMode: {
+      light: "#F0F4F8",
+      lightgray: "#A3B1C6",
+      gray: "#617A9B",
+      darkgray: "#3B506B",
+      dark: "#1C2D48",
+      secondary: "#7F9DB9",
+      tertiary: "#5579A1",
+      highlight: "rgba(85, 121, 161, 0.15)",
+      textHighlight: "#D1E3FF88",
     },
+    darkMode: {
+      light: "#1C2D48",
+      lightgray: "#5579A1",
+      gray: "#7F9DB9",
+      darkgray: "#A3B1C6",
+      dark: "#F0F4F8",
+      secondary: "#617A9B",
+      tertiary: "#D1E3FF",
+      highlight: "rgba(209, 227, 255, 0.15)",
+      textHighlight: "#D1E3FF88",
+    },
+  },
+},
+    // Idiomes suportats
+    langs: {
+      ca: "Català",
+      es: "Español",
+      en: "English",
+    },
+    defaultLang: "ca",
   },
   plugins: {
     transformers: [
