@@ -1,8 +1,8 @@
 ---
 title: Choose your language
 ---
-[[Benvinguts!|CAT]]
+## [[Benvinguts!|CAT]]
 
-[[Bienvenidos!|ESP]]
+## [[Bienvenidos!|ESP]]
 
-[[Welcome!|EN]]
+## [[Welcome!|EN]]

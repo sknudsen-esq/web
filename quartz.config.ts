@@ -31,7 +31,6 @@ const config: QuartzConfig = {
           dark: "#1E293B", // Gairebé negre suau
           secondary: "#3B82F6", // Blau vibrant
           tertiary: "#2563EB", // Blau intens
-          highlight: "rgba(59, 130, 246, 0.1)", // Resaltat blau suau
           textHighlight: "#BFDBFE", // Resaltat de text
         },
         darkMode: {
@@ -42,7 +41,6 @@ const config: QuartzConfig = {
           dark: "#F8FAFC", // Blanc pur
           secondary: "#60A5FA", // Blau brillant
           tertiary: "#93C5FD", // Blau cel
-          highlight: "rgba(96, 165, 250, 0.1)", // Resaltat blau suau
           textHighlight: "#1E40AF", // Resaltat de text
         },
       },
@@ -68,9 +66,6 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -80,7 +75,6 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),

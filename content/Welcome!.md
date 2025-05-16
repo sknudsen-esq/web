@@ -1,10 +1,9 @@
+## [[About me]]
 
-- [[About me]]
+## [[Papers and articles]]
 
-- [[Papers and articles]]
+## [[Activities]]
 
-- [[Activities]]
+## [[Other writings]]
 
-- [[Other writings]]
-
-- [[Contact]]
+## [[Contact]]

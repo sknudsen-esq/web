@@ -1,10 +1,9 @@
+## [[Sobre mi]]
 
-- [[Sobre mi]]
+## [[Articles]]
 
-- [[Articles]]
+## [[Activitats]]
 
-- [[Activitats]]
+## [[Altres escrits]]
 
-- [[Altres escrits]]
-
-- [[Contact|Contacte]]
+## [[Contact|Contacte]]
