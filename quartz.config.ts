@@ -1,11 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- * Personalitzat per investigador predoctoral amb suport multilingüe
- * Veure: https://quartz.jzhao.xyz/configuration
- */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Steen Knudsen Esquerda",
@@ -13,7 +8,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     locale: "ca-ES",
-    baseUrl: "nomcognom.github.io", // Canvia-ho pel teu domini personalitzat si en tens
+    baseUrl: "sknudsen-esq.github.io/web",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     analytics: {
@@ -23,36 +18,48 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Poppins", // Font sans-serif moderna i vibrant
+        body: "Inter", // Font sans-serif ultra llegible
+        code: "Fira Code", // Font mono amb personalitat
       },
-  colors: {
-    lightMode: {
-      light: "#F0F4F8",
-      lightgray: "#A3B1C6",
-      gray: "#617A9B",
-      darkgray: "#3B506B",
-      dark: "#1C2D48",
-      secondary: "#7F9DB9",
-      tertiary: "#5579A1",
-      highlight: "rgba(85, 121, 161, 0.15)",
-      textHighlight: "#D1E3FF88",
+      colors: {
+        lightMode: {
+          light: "#F8FAFC", // Blanc molt pur
+          lightgray: "#E2E8F0", // Gris molt clar
+          gray: "#94A3B8", // Gris mitjà
+          darkgray: "#475569", // Gris fosc
+          dark: "#1E293B", // Gairebé negre suau
+          secondary: "#3B82F6", // Blau vibrant
+          tertiary: "#2563EB", // Blau intens
+          highlight: "rgba(59, 130, 246, 0.1)", // Resaltat blau suau
+          textHighlight: "#BFDBFE", // Resaltat de text
+        },
+        darkMode: {
+          light: "#0F172A", // Fons blau marí fosc
+          lightgray: "#1E293B", // Gris blavós
+          gray: "#64748B", // Gris blau
+          darkgray: "#E2E8F0", // Gris clar
+          dark: "#F8FAFC", // Blanc pur
+          secondary: "#60A5FA", // Blau brillant
+          tertiary: "#93C5FD", // Blau cel
+          highlight: "rgba(96, 165, 250, 0.1)", // Resaltat blau suau
+          textHighlight: "#1E40AF", // Resaltat de text
+        },
+      },
+      animation: {
+        enable: true,
+        transitionSpeed: "0.2s",
+        hoverEffect: "scale(1.03)",
+        clickEffect: "scale(0.97)",
+      },
+      layout: {
+        pagePadding: "1.5rem",
+        pageWidth: "85ch",
+        lineHeight: 1.7,
+        headerFontSize: "2.25rem",
+        blockMargin: "1.25rem",
+      },
     },
-    darkMode: {
-      light: "#1C2D48",
-      lightgray: "#5579A1",
-      gray: "#7F9DB9",
-      darkgray: "#A3B1C6",
-      dark: "#F0F4F8",
-      secondary: "#617A9B",
-      tertiary: "#D1E3FF",
-      highlight: "rgba(209, 227, 255, 0.15)",
-      textHighlight: "#D1E3FF88",
-    },
-  },
-},
-    // Idiomes suportats
     langs: {
       ca: "Català",
       es: "Español",
@@ -90,12 +97,12 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        enableGraphView: false, // Graph View desactivada
       }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },

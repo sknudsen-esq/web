@@ -1,89 +1,41 @@
-## ✅ Guia per actualitzar la meva web Quartz
+# 📚 Manual d'Instruccions per Actualitzar Quartz (Obsidian + GitHub Pages)
 
-### 🔁 PAS 1: Fer els canvis
-
-* Escriu o modifica els teus arxius dins la carpeta `content/`, en qualsevol dels idiomes (`ca`, `es`, `en`, etc.).
-* També pots modificar la configuració a `quartz.config.ts` o `package.json`.
-
----
-
-### ⚙️ PAS 2: Compilar la web localment
-
-Per veure els canvis abans de pujar-los:
+## 🔄 Flux de treball bàsic
 
 ```bash
-npx quartz build --serve -d docs
+# 1. Actualitza els teus arxius Markdown a /content
+# 2. Genera la versió estàtica
+npm run deploy
+
+# 3. (Opcional) Prova localment
+npx serve docs
+
+# 4. Puja els canvis a GitHub
+git add docs/ content/
+git commit -m "Actualització del contingut"
+git push origin main
 ```
 
-Obre [http://localhost:8080](http://localhost:8080) i comprova que tot funciona bé.
+# 📝 Manual Ampliat per Canvis en Fitxers de Configuració de Quartz
 
----
+**Inclou ara modificacions en fitxers com `quartz.layout.ts` i altres configs**
 
-### 🏗️ PAS 3: Generar la versió final per publicar
+## 🔄 Flux Complet per Qualsevol Canvi
 
-Només cal fer aquest pas si **NO** has fet servir `--serve` abans (o vols estar segur que la carpeta `docs/` s'ha generat correctament):
+### Per canvis en:
+- ✅ Arxius Markdown a `/content`
+- ✅ Fitxers de configuració (`.ts`) com `quartz.layout.ts`
+- ✅ Estils CSS
+- ✅ Plantilles
 
 ```bash
-npx quartz build -d docs
-```
+# 1. Després de fer els canvis als arxius .ts o .css
+npm run deploy
 
----
+# 2. Verifica localment (opcional però recomanat)
+npx serve docs
 
-### 📂 PAS 4: Preparar els arxius per pujar a GitHub
-
-1. Afegeix tots els canvis (inclosos els de `docs/`):
-
-   ```bash
-   git add .
-   ```
-
-2. Fes el commit:
-
-   ```bash
-   git commit -m "Actualització de contingut Quartz"
-   ```
-
-3. Pujar a GitHub:
-
-   ```bash
-   git push origin main
-   ```
-
----
-
-### 🌐 PAS 5: Publicació automàtica a GitHub Pages
-
-* Després de pujar, GitHub actualitza automàticament la web publicada (pot trigar entre 30 segons i 2 minuts).
-* Assegura’t que a GitHub (Settings > Pages) tens seleccionat:
-
-  * **Branch:** `main`
-  * **Folder:** `docs/`
-
----
-
-### ⚠️ NOTA ESPECIAL: Si canvies `quartz.config.ts` o `package.json`
-
-Segueix el mateix procés, però:
-
-1. **Comprova primer que funciona en local amb:**
-
-   ```bash
-   npx quartz build --serve -d docs
-   ```
-
-2. **Després genera la versió pública (si no ho has fet al pas anterior):**
-
-   ```bash
-   npx quartz build -d docs
-   ```
-
-3. **Finalment, puja-ho tot com sempre:**
-
-   ```bash
-   git add .
-   git commit -m "Actualització de configuració Quartz"
-   git push origin main
-   ```
-
----
-
+# 3. Puja TOTS els canvis a GitHub
+git add .  # Això afegirà tots els fitxers modificats
+git commit -m "Canvis en configuració i layout"
+git push origin main
