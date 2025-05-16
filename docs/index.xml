@@ -3,49 +3,31 @@
     <channel>
       <title>Steen Knudsen Esquerda</title>
       <link>https://sknudsen-esq.github.io/web</link>
-      <description>Últimes 10 notes on Steen Knudsen Esquerda</description>
+      <description>Last 10 notes on Steen Knudsen Esquerda</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Contacte</title>
-    <link>https://sknudsen-esq.github.io/web/ca/contacte</link>
-    <guid>https://sknudsen-esq.github.io/web/ca/contacte</guid>
-    <description></description>
-    <pubDate>Thu, 15 May 2025 17:20:18 GMT</pubDate>
+    <title>Bienvenidos!</title>
+    <link>https://sknudsen-esq.github.io/web/Bienvenidos!</link>
+    <guid>https://sknudsen-esq.github.io/web/Bienvenidos!</guid>
+    <description> Sobre mí Artículos Actividades Otros escritos Contacto .</description>
+    <pubDate>Fri, 16 May 2025 15:35:28 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://sknudsen-esq.github.io/web/ca/</link>
-    <guid>https://sknudsen-esq.github.io/web/ca/</guid>
-    <description></description>
-    <pubDate>Thu, 15 May 2025 17:20:18 GMT</pubDate>
+    <title>Welcome!</title>
+    <link>https://sknudsen-esq.github.io/web/Welcome!</link>
+    <guid>https://sknudsen-esq.github.io/web/Welcome!</guid>
+    <description> About me Papers and articles Activities Other writings Contact .</description>
+    <pubDate>Fri, 16 May 2025 15:35:27 GMT</pubDate>
   </item><item>
-    <title>Contact</title>
-    <link>https://sknudsen-esq.github.io/web/en/contacte</link>
-    <guid>https://sknudsen-esq.github.io/web/en/contacte</guid>
-    <description></description>
-    <pubDate>Thu, 15 May 2025 17:20:18 GMT</pubDate>
+    <title>Benvinguts!</title>
+    <link>https://sknudsen-esq.github.io/web/Benvinguts!</link>
+    <guid>https://sknudsen-esq.github.io/web/Benvinguts!</guid>
+    <description> Sobre mi Articles Activitats Altres escrits Contacte .</description>
+    <pubDate>Fri, 16 May 2025 15:29:58 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://sknudsen-esq.github.io/web/en/</link>
-    <guid>https://sknudsen-esq.github.io/web/en/</guid>
-    <description></description>
-    <pubDate>Thu, 15 May 2025 17:20:18 GMT</pubDate>
-  </item><item>
-    <title>Contacto</title>
-    <link>https://sknudsen-esq.github.io/web/es/contacte</link>
-    <guid>https://sknudsen-esq.github.io/web/es/contacte</guid>
-    <description></description>
-    <pubDate>Thu, 15 May 2025 17:20:18 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://sknudsen-esq.github.io/web/es/</link>
-    <guid>https://sknudsen-esq.github.io/web/es/</guid>
-    <description></description>
-    <pubDate>Thu, 15 May 2025 17:20:18 GMT</pubDate>
-  </item><item>
-    <title>Benvingut/da</title>
+    <title>Choose your language</title>
     <link>https://sknudsen-esq.github.io/web/</link>
     <guid>https://sknudsen-esq.github.io/web/</guid>
-    <description>Redirigint a la versió en català….</description>
+    <description>CAT ESP EN.</description>
     <pubDate>Thu, 15 May 2025 17:20:18 GMT</pubDate>
   </item>
     </channel>

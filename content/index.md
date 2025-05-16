@@ -1,6 +1,8 @@
 ---
-title: Benvingut/da
-redirect: /ca/
+title: Choose your language
 ---
+[[Benvinguts!|CAT]]
 
-Redirigint a la versió en català...
+[[Bienvenidos!|ESP]]
+
+[[Welcome!|EN]]

@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    locale: "ca-ES",
+    locale: "en-US",
     baseUrl: "sknudsen-esq.github.io/web",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -61,11 +61,9 @@ const config: QuartzConfig = {
       },
     },
     langs: {
-      ca: "Català",
-      es: "Español",
       en: "English",
     },
-    defaultLang: "ca",
+    defaultLang: "en",
   },
   plugins: {
     transformers: [
