@@ -9,7 +9,7 @@
 
 - - -
 
-**[[Benvinguts!#Properes activitats|Properes activitats]]!!**
+**[[Benvinguts!#⚠️ Properes activitats|Properes activitats]]!!**
 
 - - -
 

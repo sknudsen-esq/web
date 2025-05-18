@@ -8,7 +8,7 @@
 
 - - -
 
-**[[Bienvenidos!#Próximas actividades|Próximas actividades]]!!**
+**[[Bienvenidos!#⚠️ Próximas actividades|Próximas actividades]]!!**
 
 - - -
 
