@@ -1,0 +1,51 @@
+
+*Grafton Tanner reclaims our right to nostalgia, too often snatched away by ‘foreverism’—the drive to make the past perpetually present at any cost. Nostalgia, in contrast, allows us to critically distance ourselves from the promises of a system that wants no future for us.*
+- - -
+*{There might be translation errors due to the model used. Written originally in Catalan}*
+
+It’s Friday night after dinner. You sit on the couch, turn on the TV, and there they are—Jordi Sánchez and Joel Joan in a bar. You, a lifelong fan of _Plats Bruts_ since early childhood, widen your eyes like saucers: finally, the spin-off we’ve been waiting for! But the joy lasts only minutes. You notice the forced dialogue, the stiff expressions, the artificial set. Of course—it’s TV3’s 40th-anniversary gala! For some reason, a bittersweet unease washes over you, a strange discomfort. Is this nostalgia? If Grafton Tanner is right, this feeling has less to do with clamoring for _Plats Bruts_’ return (as you’ve tweeted so often) and more to do with the ghostly spectacle you’ve just witnessed.
+
+### The Order of Nostalgic Discourse
+
+Grafton Tanner, an American writer and academic, has gained recent prominence in cultural studies. He published his first essay on vaporwave in 2016, but his focus on nostalgia began in 2020 with _The Circle of the Snake_ and solidified in his most ambitious work to date, _The Hours Have Lost Their Clock_ (2021), translated last year by Tigre de Paper. A few months ago, the third installment of this trilogy appeared: _Foreverism_, where Tanner resolves many lingering questions and redefines concepts that will deeply influence current debates. Introducing new philosophical terms is never easy, and in this country, we’re often late to the game. That’s why I appreciate Oriol Rossell’s swift adoption of “foreverism” in Catalan barely two weeks after the book’s UK release. Kudos, too, to Tigre de Paper for translating such a work—rarely do we get Catalan editions before Spanish or French ones.
+
+In _Foreverism_, Tanner defines nostalgia as an emotion “capable of generating and reinterpreting memory,” contrasting it with modern ideologies of moral progress. This description carries political implications far removed from its original meaning. The term “nostalgia” was coined in 1688 when Swiss student Johannes Hofer, in his doctoral thesis, diagnosed it as an illness—a melancholic longing for homeland that plagued Swiss mercenaries abroad, clouding their minds and even endangering their lives.
+
+Tanner revives this “medicalization of nostalgia”—a discourse later blended with atavism and social Darwinism, morphing into a political weapon against cultural minorities and non-hegemonic identities, framing nostalgia as a primitive trait to overcome. He calls “positivist discourses on nostalgia” those medico-legal arguments that opposed it to civilizational progress, condemning its unsettling ability to detach people from the present—the time of labor, production, and capital. After the World Wars, medical discourse on nostalgia faded, and positivist rhetoric became an awkward relic, reducing nostalgia to mere consumer goods.
+
+Yet Tanner rejects any narrative implying nostalgia has “progressed”—from disease to disorder to commodity. He detects in this trajectory the same goal as the old “positivist discourse”: making us believe nostalgia is no longer what it once was. Nostalgia hasn’t vanished; it’s locked in a battle with a new discourse seeking to erase it: _foreverism_.
+
+### Foreverism: When Nothing Is Missing, We Miss Nothing
+
+Tanner defines _foreverism_ as a dominant contemporary cultural and political discourse that keeps the past perpetually present, creating the illusion that society is endlessly looking backward. He reclaims the term from digital marketing blogs that, a decade ago, pushed a “permanent beta mode” for all products: constant updates, never-ending conversations, unfinished goods. Foreverism offers a past disguised as the present; like positivism, it aims to eliminate nostalgia—not through discipline, but through the illusion of free consumption. It forces us to mistake the flood of “past” content on our screens for nostalgic desire when, Tanner suspects, the truth is simpler: the West has never coexisted peacefully with nostalgia and remains haunted by it as in centuries past.
+
+The goal is no longer preservation (only the dead can be preserved) or restoration (an endless process)—it’s to _foreverize_ the world. Strategies include:
+
+- **Perpetual accessibility** (cloud-stored photos, entire streaming catalogs).
+    
+- **AI-remastered media**, scrubbing away “the aesthetic of decay,” the Benjaminian patina—colorizing images, removing audio crackle, sanitizing results as if recorded with today’s technology. But some truths, Tanner writes, “can only be uncovered by engaging with an object’s idiosyncrasies.” Remasters simulate an “authentic” past while pushing the real past further away.
+    
+
+### Political Exceptionalism and Narrative Persistence
+
+Foreverism’s hallmark is _endless storytelling_: every movie a franchise, every series indefinitely extended, every audiovisual product reduced to “content”—“easily consumed, just as easily forgotten,” making way for the next sequel. Tanner argues this mimics a child’s sense of infinity, replicating in fiction the illusion of progress the system can no longer deliver. For the culture industry, it’s a safe bet: audience flops are avoided, and franchises lingering in stores and theaters trick the public into believing they need never end, since nothing better will come. Critics say we’ve grown nostalgic—but how can we miss what’s never truly finished?
+
+This persistence reshapes contemporary subjectivity. Amid the biopolitics of permanent exception (summed up in Tanner’s phrase, “It’s not a matter of _if_, but _when_”), foreverist subjectivity demands constant vigilance—never miss out, always improve, adapt endlessly. Though increasingly aware of material limits, the foreverized world seems to expand infinitely, exhausting its inhabitants. The nostalgic individual, once medically and politically “corrected” for failing to embrace Enlightenment progress, now endures market-based therapy: consuming foreverized pasts, trapped in patterns of longing for what feels ever more unattainable. Like Deleuze’s shift from disciplinary societies to control societies, nostalgia, too, has moved from discipline to control. If nostalgic restoration fuels capitalist labor, it’s permitted—even encouraged. Otherwise, the system prefers amnesiac subjects, too immersed in the present to remember.
+
+### Nostalgic Energy and Political Restoration
+
+Tanner’s work might seem like another cultural critique of late capitalism—but its aim is sharper: to expose how foreverist cultural discourse fuels so-called “nostalgic politics.” The resurgence of reactionary politics this past decade is no accident; its catalyst was power structures selling the myth of an irrecoverable past, scapegoating queer theory, Global South migrants, woke movements, etc. Here lies Tanner’s importance: he gives us tools to doubt the “nostalgic” core of such politics. These movements exploit nostalgic energy, but their strategy suspiciously resembles foreverism—declaring the past lost, promising its eternal restoration, then mobilizing followers to labor emotionally for it. Trump doesn’t want voters to _miss_ America’s past; he foreverizes it, stifling nostalgia altogether.
+
+Nostalgia _itself_ isn’t productive: it isolates, paralyzes. Capitalism needs workers who produce and consume. Reactionary politics mobilizes people to restore the past—to work, not rest. But the past is impossible to restore, let alone foreverize! Wasted effort breeds rage and despair as the present grows unlivable, the past recedes, and the promised future-past never arrives.
+
+Tanner argues that foreverist discourses, like Trump’s, aim to suppress nostalgia and other emotions threatening capitalist oppression—just as doctors, psychiatrists, and judges once did. Nostalgia challenges moral progress narratives, the myth that we live in the best possible world. It distances us from immediacy, lets us compare expectations, recall broken promises. And it won’t be easily eradicated: no matter how much access or artificial revival we have, we’ll never truly “relive” the past—and the possibility of missing it will always remain.
+
+### Reclaiming Nostalgia, Resisting the Present
+
+Foreverism has replaced old positivist anti-nostalgia discourses because it better solves capitalism’s eternal problem: how to profit from the past while stamping out longing for it. As Tanner shows, foreverism still seeks to suppress emotions that threaten the work-and-produce order—even the labor of keeping the past alive. When nothing ends, when everything stays present, feelings tied to finality—satisfaction, relief, but also grief and nostalgia—mutate into anger and hopelessness. Foreverism’s trap is promising to soothe these feelings while breeding fiercer ones.
+
+Tanner’s _The Hours Have Lost Their Clock_ tentatively proposed reclaiming our right to nostalgia. Now, he goes further: perhaps too much is blamed on “nostalgia,” while the real thing—_our_ nostalgia—is far rarer. His solution: let it exist as just another emotion, neither politicized nor commodified. Feeling nostalgic might, at times, be good—even necessary—to make sense of past and future.
+
+But reclaiming nostalgia demands surgical precision with language and critique, separating the wheat of nostalgia from the chaff of foreverism. It means watching that _Plats Bruts_ reunion and asking: Will a spin-off, or rewatching it on 3Cat’s foreverist platform, ever replace the ache of first seeing it? We must ask: Is our nostalgia a desire for endless franchise content, a wish to restore society as it was, or grief for what that past failed to deliver?
+
+With Tanner’s latest work, drawing the line is easier: _“nostalgia”_ is the deep longing for the past; _“foreverism”_ is the discourse begging us to relive it—only to perpetuate capitalism’s promise that _now_ is forever, and forever is _now_. If nothing is allowed to change, the enemy, as Walter Benjamin wrote, will never stop winning."

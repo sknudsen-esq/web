@@ -24,14 +24,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#F8FAFC", // Blanc molt pur
-          lightgray: "#E2E8F0", // Gris molt clar
-          gray: "#94A3B8", // Gris mitjà
-          darkgray: "#475569", // Gris fosc
-          dark: "#1E293B", // Gairebé negre suau
-          secondary: "#3B82F6", // Blau vibrant
-          tertiary: "#2563EB", // Blau intens
-          textHighlight: "#BFDBFE", // Resaltat de text
+    light: "#bad6ff", // Fons blau molt clar amb toc càlid
+    lightgray: "#E1E8F2", // Blau clar neutral
+    gray: "#8A9CB2", // Gris-blau per text secundari
+    darkgray: "#4A5C72", // Gris-blau fosc per text principal
+    dark: "#2C3E50", // Blau fosc intens per encapçalaments
+    secondary: "#1A73E8", // Blau principal (punt d'interès)
+    tertiary: "#E6B17E", // Toc terros/taronja per a detalls (càlid)
+    textHighlight: "#FFEED8", // Resaltat de text càlid
         },
         darkMode: {
           light: "#0F172A", // Fons blau marí fosc
