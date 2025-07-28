@@ -14,35 +14,37 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Poppins", // Font sans-serif moderna i vibrant
-        body: "Inter", // Font sans-serif ultra llegible
-        code: "Fira Code", // Font mono amb personalitat
-      },
-      colors: {
-        lightMode: {
-    light: "#bad6ff", // Fons blau molt clar amb toc càlid
-    lightgray: "#E1E8F2", // Blau clar neutral
-    gray: "#8A9CB2", // Gris-blau per text secundari
-    darkgray: "#4A5C72", // Gris-blau fosc per text principal
-    dark: "#2C3E50", // Blau fosc intens per encapçalaments
-    secondary: "#1A73E8", // Blau principal (punt d'interès)
-    tertiary: "#E6B17E", // Toc terros/taronja per a detalls (càlid)
-    textHighlight: "#FFEED8", // Resaltat de text càlid
-        },
-        darkMode: {
-          light: "#0F172A", // Fons blau marí fosc
-          lightgray: "#1E293B", // Gris blavós
-          gray: "#64748B", // Gris blau
-          darkgray: "#E2E8F0", // Gris clar
-          dark: "#F8FAFC", // Blanc pur
-          secondary: "#60A5FA", // Blau brillant
-          tertiary: "#93C5FD", // Blau cel
-          textHighlight: "#1E40AF", // Resaltat de text
-        },
+theme: {
+  fontOrigin: "googleFonts",
+  cdnCaching: true,
+  typography: {
+    header: "Merriweather",
+    body: "Lora",
+    code: "JetBrains Mono",
+  },
+  colors: {
+    lightMode: {
+  light: "#f8f1e7",            // Fons general beix clar
+  lightgray: "#f0e6d6",        // Tons beix suaus
+  gray: "#c9b8a7",             // Marró molt clar (per subtítols, etc.)
+  darkgray: "#6e6259",         // Text principal, marró mitjà
+  dark: "#3e352d",             // Títols, marró fosc
+  secondary: "#a37c49",        // Enllaços (taronja/marró càlid)
+  tertiary: "#d3b98c",         // Accent decoratiu (beix daurat)
+  highlight: "rgba(163, 124, 73, 0.1)",  // Ressaltat de bloc
+  textHighlight: "#ffe7b588",            // Ressaltat de text (groc suau translúcid)
+},
+    darkMode: {
+      light: "#1f1f1f",
+      lightgray: "#2c2c2c",
+      gray: "#5a5a5a",
+      darkgray: "#cccccc",
+      dark: "#f0f0f0",
+      secondary: "#d0b97f",
+      tertiary: "#a49f8d",
+      highlight: "rgba(255, 255, 255, 0.1)",
+      textHighlight: "#f2c94c88",
+    },
       },
       animation: {
         enable: true,

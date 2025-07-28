@@ -11,7 +11,7 @@
 
 - - -
 
-***Líneas de investigación**
+***Líneas de investigación***
 
 **Política, tiempo, modernidad**. El paso del Antiguo Régimen a la modernidad filosófica y política muchas veces se explica a partir de un **cambio de régimen temporal e histórico**. Algunos autores hablan de la **aceleración** del tiempo histórico, de una vida frenética, del cambio en el **horizonte de expectativas**, de la **pérdida de la tradición** ante el *shock* con la novedad permanente. Me interesa cuestionar, en este sentido, la **posibilidad** de hacer historia y filosofía bajo estas condiciones —e incluso, de qué manera se puede articular una **filosofía histórica**, una **historia filosófica**. **Radicalizar** la crítica marxista al capitalismo, pero también el ataque posmoderno a la ideología, en el campo de la reflexión sobre **qué es la Modernidad**, cómo se ha llevado a cabo, y **qué Ilustración es aún posible**.
 
