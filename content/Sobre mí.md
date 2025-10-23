@@ -18,5 +18,5 @@ Miembro del grupo de investigación [MUSSOL-UOC](https://blogs.uoc.edu/mussol/es
 - - -
 Me interesa el **pensamiento moderno y contemporáneo**, particularmente la **filosofía política**, los **estudios culturales**, la **filosofía de la historia** y la **Teoría Crítica**.
 
-Además, he estado involucrado en diferentes movimientos estudiantiles y sociales: en el sindicato de investigadores **Doctorandos en Lucha**, en la **Red Universitaria por Palestina** y otras organizaciones.
+Además, he estado involucrado en el sindicato de investigadores **Doctorandos en Lucha**, en la **Red Universitaria por Palestina** y otras organizaciones.
 

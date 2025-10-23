@@ -17,7 +17,7 @@ Membre del grup de recerca [MUSSOL-UOC](https://blogs.uoc.edu/mussol/) i de la [
 - - -
 M'interessa el **pensament modern i contemporani**, particularment la **filosofia política**, els **estudis culturals**, la **filosofia de la història** i la **Teoria Crítica** de l'Escola de Frankfurt.
 
-A més, he estat involucrat en diferents moviments estudiantils i socials: en el sindicat d'investigadors **Doctorands en Lluita**, en la **Red Universitaria por Palestina** i altres organitzacions.
+A més, he estat involucrat en el sindicat d'investigadors **Doctorands en Lluita**, en la **Red Universitaria por Palestina** i altres organitzacions.
 
 
 

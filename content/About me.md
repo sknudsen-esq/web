@@ -19,4 +19,4 @@ Member of the [MUSSOL-UOC](https://blogs.uoc.edu/mussol/en/) Research group and 
 - - -
 My interests include modern and contemporary thought, particularly **political philosophy, cultural studies, philosophy of history**, and **Critical Theory**.
 
-Additionally, I have been involved in various student and social movements, including the graduate student union **_Doctorandos en Lucha_**, the **Spanish Universities for Palestine Network**, and other organizations.
+Additionally, I have been involved in the student union **_Doctorandos en Lucha_**, the **Spanish Universities for Palestine Network**, and other organizations.
