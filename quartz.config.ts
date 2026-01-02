@@ -5,7 +5,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Steen Knudsen Esquerda",
     pageTitleSuffix: "",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     locale: "en-US",
     baseUrl: "sknudsen-esq.github.io/web",
