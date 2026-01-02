@@ -1,5 +1,9 @@
 *Recent activities*
 
+07/12/2025- **Featured in the RPS podcast "Punzadas sonoras".** [# LAS GLOSAS 1X03 - 'EL FUTURO DE LA NOSTALGIA', DE SVETLANA BOYM](https://www.youtube.com/watch?v=W1YV2qu3c1w).
+
+25/11/2025- **Seminar:** **Nostalgia: between philosophical critique and political imagination**(in Spanish).  [Maestría de Estudios Filosóficos | University of Guadalajara](https://www.cucsh.udg.mx/actividades/workshop-en-la-universidad-de-guadalajara-nostalgia-entre-la-critica-filosofica-y-la) (Master's Seminar, Mexico).
+
 01/10/2025- **Lecture:** **Nostalgia and Critique in Kant: on the imagination and its limits in our times** (in Spanish).  [XI Congreso Internacional de la Sociedad Académica de Filosofía (SAF)](https://eventos.uva.es/125060/programme/xi-congreso-internacional-de-la-sociedad-academica-de-filosofia-saf-lser-humano-en-el-siglo-xxi-la-.html) (Academic Congress, Valladolid).
 
 18/09/2025- **Lecture:** **Beyond the Mourning Principle: Benjamin and Nostalgia**.  [International Walter Benjamin Society 25th congress](http://walterbenjamin.info/event/cfp-iwbs-25-southern-benjamin-mourning-play-revolution/) (Congress, Rome).

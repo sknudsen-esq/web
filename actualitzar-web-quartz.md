@@ -3,13 +3,15 @@
 ## 🔄 Flux de treball bàsic
 
 ```bash
-# 1. Actualitza els teus arxius Markdown a /content
+# 1. desplaça't al lloc on tens la web amb 
+cd Documents
+cd web
 # 2. Genera la versió estàtica
 npm run deploy
 
 # 3. (Opcional) Prova localment
 npx serve docs
-
+# (per acabar amb la previsualització, ctrl+C)
 # 4. Puja els canvis a GitHub
 git add docs/ content/
 git commit -m "Actualització del contingut"

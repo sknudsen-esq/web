@@ -1,5 +1,9 @@
 *Darreres activitats*
 
+07/12/2025- **Col·laboració amb el pòdcast "Punzadas sonoras".** [# LAS GLOSAS 1X03 - 'EL FUTURO DE LA NOSTALGIA', DE SVETLANA BOYM](https://www.youtube.com/watch?v=W1YV2qu3c1w) 
+
+25/11/2025- **Seminari:** **Nostalgia: entre la crítica filosófica y la imaginación política**.  [Maestría de Estudios Filosóficos | Universidad de Guadalajara](https://www.cucsh.udg.mx/actividades/workshop-en-la-universidad-de-guadalajara-nostalgia-entre-la-critica-filosofica-y-la) (Seminari de Màster, Mèxic).
+
 01/10/2025- **Ponència:** **Nostalgia y crítica en Kant: sobre la imaginación y sus límites en nuestro tiempo**.  [XI Congreso Internacional de la Sociedad Académica de Filosofía (SAF)](https://eventos.uva.es/125060/programme/xi-congreso-internacional-de-la-sociedad-academica-de-filosofia-saf-lser-humano-en-el-siglo-xxi-la-.html) (Congrés acadèmic, Valladolid).
 
 18/09/2025- **Conferència:** **Beyond the Mourning Principle: Benjamin and Nostalgia**.  [International Walter Benjamin Society 25th congress](http://walterbenjamin.info/event/cfp-iwbs-25-southern-benjamin-mourning-play-revolution/) (Congrés acadèmic, Roma).
